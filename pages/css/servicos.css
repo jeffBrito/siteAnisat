@@ -1,0 +1,28 @@
+#servico1{
+    width: 100%;
+    height: 470px;
+    background: #fff;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 40px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+#meuServico{
+    widows: 100%;
+    height: 45px;
+    background-color: #169EB4;
+}
+
+#tituloMeuServico{
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 18px;
+    float: left;
+    color: #fff;
+}
+
+
+#tabelaMeuServico{
+    margin-top: 10px;
+}

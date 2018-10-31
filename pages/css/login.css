@@ -1,0 +1,113 @@
+body { 
+    background-image: url("../imagens/fundo.png");
+    background-repeat: no-repeat; 
+    background-size: 100%;
+}
+
+#imgBack{
+    margin-left:100px; 
+}
+
+#panelPrincipal{
+    width: 350px;
+    height: 428px;
+    background-color:#282828;
+    margin-top:160px;
+    margin-left:500px;
+    float:left;
+}
+
+#panelLogin{
+    float:left;
+    width:300px;
+    height: 230px;
+    margin-left: 10px;
+    margin-top: 8px;
+    float:left; 
+}
+
+#imgLogin{
+    margin-top:20px;
+    margin-left:121px; 
+    font-size: 17px;
+}
+
+#lblLogin{
+    font-size: 17px; 
+    color:darkgrey;
+}
+
+#lblSenha{
+    font-size: 17px;
+    color:darkgrey;
+}
+
+#txtLogin{
+    width: 300px;
+    font-size: 17px;
+}
+
+#txtSenha{
+    width: 300px;
+    font-size: 17px;
+}
+
+#btnLogar{
+    width: 300px;
+    font-size: 17px;
+}
+
+.lblEsqueceu{
+    color:darkgrey; 
+}
+a.lblEsqueceu:link{
+    text-decoration: none;
+}
+a.lblEsqueceu:hover{
+    text-decoration: underline;
+    color:#17A2B8;
+}
+
+#lblMsgLogin{
+    color:darkgrey;
+    font-size: 15px; 
+    margin-left:68px; 
+
+}
+
+#footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 35px;
+    background-color:#282828;
+    color: white;
+    text-align: center;
+}
+
+#cadastroPainel{
+    margin-top: 5px; 
+}
+
+.lblCadastro{
+    color:darkgrey; 
+}
+a.lblCadastro:link{
+    text-decoration: none;
+}
+a.lblCadastro:hover{
+    text-decoration: underline;
+    color:#17A2B8;
+}
+
+.lblCadastro{
+    color:darkgrey;
+    font-size: 14px; 
+    margin-top: 25px;
+}
+
+#copyRight{
+    font-size: 13px;
+    margin-top: 8px;
+}

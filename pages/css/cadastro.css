@@ -1,0 +1,107 @@
+body { 
+    background-image: url("../imagens/fundo.png");
+    background-repeat: no-repeat; 
+    background-size: 100%;
+}
+
+#imgBack{
+    margin-left:130px; 
+}
+
+#panelPrincipal{
+    width: 397px;
+    height: 565px;
+    background-color:#282828;
+    margin-left:500px;
+    margin-top: 88px;
+    float: left;
+}
+
+#panelLogin{
+    float:left;
+    width:300px;
+    height: 230px;
+    margin-left: 23px;
+    margin-top: 8px;
+    float:left; 
+}
+
+#imgLogin{
+    margin-top:20px;
+    margin-left:121px; 
+    font-size: 17px;
+}
+
+#lblLogin{
+    font-size: 17px; 
+    color:darkgrey;
+}
+
+#lblCpf{
+    font-size: 17px; 
+    color:darkgrey;
+}
+
+#lblSenha{
+    font-size: 17px;
+    color:darkgrey;
+}
+
+#lblConfSenha{
+    font-size: 17px;
+    color:darkgrey;
+}
+
+#txtCpf{
+    width: 350px;
+    font-size: 17px;
+}
+
+#txtLogin{
+    width: 350px;
+    font-size: 17px;
+}
+
+#txtSenha{
+    width: 350px;
+    font-size: 17px;
+}
+
+#txtConfSenha{
+    width: 350px;
+    font-size: 17px;
+}
+
+#btnLogar{
+    width: 350px;
+    height: 45px;
+    font-size: 17px;
+}
+
+#lblMsgLogin{
+    color:darkgrey;
+    font-size: 15px; 
+    margin-left:112px; 
+
+}
+
+#cadastroPainel{
+    margin-top: 5px; 
+}
+
+.lblCadastro{
+    color:darkgrey; 
+}
+a.lblCadastro:link{
+    text-decoration: none;
+}
+a.lblCadastro:hover{
+    text-decoration: underline;
+    color:#17A2B8;
+}
+
+.lblCadastro{
+    color:darkgrey;
+    font-size: 15px; 
+    margin-top: 10px;
+}

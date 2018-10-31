@@ -1,0 +1,63 @@
+#comprovantes1{
+    width: 100%;
+    height: 470px;
+    background: #fff;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 40px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+#meusComprovantes{
+    widows: 100%;
+    height: 45px;
+    background-color: #169EB4;
+}
+
+#tituloMeusComprovantes{
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 18px;
+    float: left;
+    color: #fff;
+}
+
+
+#tabelaMeuComprovantes{
+    margin-top: 10px;
+}
+
+.comprovantes2{
+    text-align: center;
+}
+#btnStatus{
+    width: 125px;
+}
+
+tr{
+    text-align: center;    
+}
+
+td{
+    text-align: center;
+}
+
+#pageFaturas{
+    float: left;
+    margin-left: 391px;
+}
+
+#tituloMeusComprovantes2{
+    height: 60px;
+    width: 100%;
+    background: #fff;
+    border: none;
+    float: left;
+    border-radius: 0;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+#btnNovoComprovante{
+    margin-left: 10px;
+    margin-top: 5px;
+}
